@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "al9V+S9thL91jrtEwSQpN1soRb4Kq/HoBAtbdcmyV/HVC6gFm0oEALvnD1bX4NCzx8l5mwqBmb9JX5fTzvqHdg==",
+  "dgSpecHash": "NJKgZwz63a/ZCR1rxf564vmp7K9MVDLQKGeKFO6yBeoo+cJ6y08ZHZ8TD5J8DoAOxfKeBjjOf4iL7XKnquttRg==",
   "success": true,
   "projectFilePath": "C:\\Users\\acer\\Documents\\GitHub\\EquipoNaranja\\EquipoNaranja.csproj",
   "expectedPackageFiles": [
@@ -40,6 +40,8 @@
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.options\\8.0.2\\microsoft.extensions.options.8.0.2.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\mono.texttemplating\\2.2.1\\mono.texttemplating.2.2.1.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\npgsql\\8.0.2\\npgsql.8.0.2.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\npgsql.entityframeworkcore.postgresql\\8.0.2\\npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.6\\sqlitepclraw.bundle_e_sqlite3.2.1.6.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\sqlitepclraw.core\\2.1.6\\sqlitepclraw.core.2.1.6.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.6\\sqlitepclraw.lib.e_sqlite3.2.1.6.nupkg.sha512",
